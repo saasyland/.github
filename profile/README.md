@@ -66,4 +66,4 @@ SaaSy Land is in beta.
 - **In testing:** the templates for the first stack. On every change, the generated projects are installed, then pass their own checks and tests, build, boot, and run their Playwright suites in Chromium and WebKit.
 - **Coming:** project generation (`init`) for customers ships in an upcoming release.
 
-<sub>Built by [Piotr Borowiecki](https://github.com/pjborowiecki). Questions: [hello@saasyland.com](mailto:hello@saasyland.com). Security reports: follow the `SECURITY.md` of the repository concerned.</sub>
+<sub>Follow along on [Instagram](https://www.instagram.com/saasyland/). Built by [Piotr Borowiecki](https://pjborowiecki.com). Questions: [hello@saasyland.com](mailto:hello@saasyland.com). Security reports: follow the `SECURITY.md` of the repository concerned.</sub>
