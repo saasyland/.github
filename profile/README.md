@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/saasyland/saasyland.com/actions/workflows/ci.yml"><img src="https://github.com/saasyland/saasyland.com/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
-  <a href="https://github.com/saasyland/saasyland.com/blob/main/LICENSE"><img src="https://img.shields.io/github/license/saasyland/saasyland.com" alt="License"></a>
+  <a href="https://github.com/saasyland/saasyland.com/blob/main/LICENSE.md"><img src="https://img.shields.io/badge/website%20source-MIT-blue" alt="Website source: MIT"></a>
   <a href="https://www.npmjs.com/package/saasyland"><img src="https://img.shields.io/npm/v/saasyland/beta?label=saasyland%40beta" alt="saasyland on npm"></a>
 </p>
 
